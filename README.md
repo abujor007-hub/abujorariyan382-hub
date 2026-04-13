@@ -14,7 +14,7 @@
 
 ###
 
-<h1 align="center">hey i'm Abujor Ariayn👋<br>Junior Web Developer</h1>
+<h1 align="center">hey i'm Abujor Ariayn👋<br>Laravel Developer</h1>
 
 ###
 
@@ -62,7 +62,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats : Junior Web Developer</h3>
+<h3 align="left">🔥   My Stats : Laravel Developer</h3>
 
 ###
 
